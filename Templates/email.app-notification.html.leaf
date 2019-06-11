@@ -1,7 +1,11 @@
-<h1>Hi #(user.firstname) #(user.lastname)</h1>
-<br />
-<p>To download #(app.name), version #(app.version)(#(app.build)) for #(app.platform) click here <a href="#(link)">link</a></p>
-<br />
-<p>Full link is: <strong>#(link)</strong></p>
-<br />
-<p>#(system.info.name)</p>
+#set("content") {
+    <h1>Hi #(user.firstname) #(user.lastname)</h1>
+    <br />
+    <p>To download #(app.name), version #(app.version)(#(app.build)) for #(app.platform) click here <a href="#(link)">link</a></p>
+    <br />
+    <p>Full link is: <strong>#(link)</strong></p>
+    <br />
+    <p>#(system.info.name)</p>
+}
+
+#embed("email.layout")
