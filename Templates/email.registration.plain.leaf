@@ -4,4 +4,4 @@ To finish your registration, please confirm your email #(user.email) by clicking
 
 Verification code is: |#(verification)|
 
-ApiCore
+#(system.info.name)

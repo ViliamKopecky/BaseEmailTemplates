@@ -5,4 +5,4 @@ You can confirm your registration now by clicking on this link #(link)
 
 Verification code is: |#(verification)|
 
-ApiCore
+#(system.info.name)
