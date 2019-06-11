@@ -3,35 +3,35 @@
   "items": [
     {
       "name": "email.invitation.html",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.invitation.html.leaf"
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.invitation.html.leaf"
     },
     {
       "name": "email.invitation.plain",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.invitation.plain.leaf"
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.invitation.plain.leaf"
     },
     {
       "name": "email.password-recovery.html",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.password-recovery.html.leaf"
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.password-recovery.html.leaf"
     },
     {
       "name": "email.password-recovery.plain",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.password-recovery.plain.leaf"
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.password-recovery.plain.leaf"
     },
     {
       "name": "email.registration.html",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.registration.html.leaf"
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.registration.html.leaf"
     },
     {
       "name": "email.registration.plain",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.registration.plain.leaf"
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.registration.plain.leaf"
     },
     {
       "name": "email.app-notification.html",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.app-notification.html.leaf"
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.app-notification.html.leaf"
     },
     {
       "name": "email.app-notification.plain",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.app-notification.plain.leaf"
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.app-notification.plain.leaf"
     }
   ]
 }
