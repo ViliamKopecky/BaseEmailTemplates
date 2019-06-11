@@ -2,6 +2,10 @@
   "name": "Einstore email templates",
   "items": [
     {
+      "name": "email.layout",
+      "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.layout.leaf"
+    },
+    {
       "name": "email.invitation.html",
       "link": "https://raw.githubusercontent.com/ViliamKopecky/BaseEmailTemplates/master/Templates/email.invitation.html.leaf"
     },
